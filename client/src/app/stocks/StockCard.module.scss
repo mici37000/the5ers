@@ -1,0 +1,19 @@
+.thumb {
+  width: 64px;
+  height: 64px;
+}
+
+.card {
+  height: 170px;
+
+}
+
+.remove {
+  top: 5px;
+  right: 5px;
+  cursor: pointer;
+
+  &:hover {
+    color: var(--orange-color);
+  }
+}

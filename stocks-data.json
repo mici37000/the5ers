@@ -1,0 +1,129 @@
+[{
+  "_id": {
+    "$oid": "66f852e9eb40e237f4c15a3f"
+  },
+  "symbol": "MSFT",
+  "companyName": "Microsoft Corporation",
+  "image": "https://financialmodelingprep.com/image-stock/MSFT.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66f852f2eb40e237f4c15a43"
+  },
+  "symbol": "META",
+  "companyName": "Meta Platforms, Inc.",
+  "image": "https://financialmodelingprep.com/image-stock/META.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66f852fdeb40e237f4c15a47"
+  },
+  "symbol": "AMZN",
+  "companyName": "Amazon.com, Inc.",
+  "image": "https://financialmodelingprep.com/image-stock/AMZN.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66f85308eb40e237f4c15a4b"
+  },
+  "symbol": "GOOG",
+  "companyName": "Alphabet Inc.",
+  "image": "https://financialmodelingprep.com/image-stock/GOOG.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66f85313eb40e237f4c15a4f"
+  },
+  "symbol": "NVDA",
+  "companyName": "NVIDIA Corporation",
+  "image": "https://financialmodelingprep.com/image-stock/NVDA.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66f8531feb40e237f4c15a53"
+  },
+  "symbol": "TSLA",
+  "companyName": "Tesla, Inc.",
+  "image": "https://financialmodelingprep.com/image-stock/TSLA.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66f85335eb40e237f4c15a57"
+  },
+  "symbol": "SPOT",
+  "companyName": "Spotify Technology S.A.",
+  "image": "https://financialmodelingprep.com/image-stock/SPOT.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66f8536aeb40e237f4c15a5b"
+  },
+  "symbol": "WMT",
+  "companyName": "Walmart Inc.",
+  "image": "https://financialmodelingprep.com/image-stock/WMT.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66f8537aeb40e237f4c15a5f"
+  },
+  "symbol": "BABA",
+  "companyName": "Alibaba Group Holding Limited",
+  "image": "https://financialmodelingprep.com/image-stock/BABA.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66f85382eb40e237f4c15a63"
+  },
+  "symbol": "TCTZF",
+  "companyName": "Tencent Holdings Limited",
+  "image": "https://financialmodelingprep.com/image-stock/TCTZF.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66f85404eb40e237f4c15a76"
+  },
+  "symbol": "CRM",
+  "companyName": "Salesforce, Inc.",
+  "image": "https://financialmodelingprep.com/image-stock/CRM.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66f8541beb40e237f4c15a7a"
+  },
+  "symbol": "SNAP",
+  "companyName": "Snap Inc.",
+  "image": "https://financialmodelingprep.com/image-stock/SNAP.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66f85428eb40e237f4c15a7e"
+  },
+  "symbol": "NFLX",
+  "companyName": "Netflix, Inc.",
+  "image": "https://financialmodelingprep.com/image-stock/NFLX.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66f85452eb40e237f4c15a82"
+  },
+  "symbol": "S",
+  "companyName": "SentinelOne, Inc.",
+  "image": "https://financialmodelingprep.com/image-stock/S.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66f854adeb40e237f4c15a86"
+  },
+  "symbol": "BRK-B",
+  "companyName": "Berkshire Hathaway Inc.",
+  "image": "https://financialmodelingprep.com/image-stock/BRK-B.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66f854c1eb40e237f4c15a8a"
+  },
+  "symbol": "AVGO",
+  "companyName": "Broadcom Inc.",
+  "image": "https://financialmodelingprep.com/image-stock/AVGO.png",
+  "__v": 0
+}]
